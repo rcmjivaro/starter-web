@@ -3,6 +3,8 @@
 
 # TEAM
 
+	jason taylor jt@gmail.com
+
     <name> -- <role> -- <twitter>
 
 # THANKS
